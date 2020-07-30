@@ -26,7 +26,7 @@ TZone = "Asia/Tokyo"
 
 # account
 ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+DOMAIN_ID = 168081
 
 # api
 API_ID = "kr1oWIBuIjZwG"
