@@ -29,11 +29,11 @@ ADMIN_ACCOUNT = "admin@xxx.com"
 DOMAIN_ID = 0
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "kr1oWIBuIjZwG"
+SERVER_CONSUMER_KEY = "D2ymjNkbvaZGZvAxt5rw"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "b0f4375c2cf64bf09c50f07ced7a6261"
+SECRET_KEY_NAME = "private_20200730140306.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://postgresql-vertical-94112.herokuapp.com/"
