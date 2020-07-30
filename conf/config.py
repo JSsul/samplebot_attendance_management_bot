@@ -36,7 +36,7 @@ SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
 SECRET_KEY_NAME = "private_201xxxxx164308.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://postgresql-vertical-94112.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-3-91-139-25.compute-1.amazonaws.com"
